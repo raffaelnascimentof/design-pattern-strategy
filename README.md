@@ -1,5 +1,5 @@
 # design-pattern-strategy
-Repositório dedicado a explicar e demonstrar o uso do padrão de projeto **Strategy** por meio de exemplos simples e práticos.
+Repositório dedicado a explicar e demonstrar o uso do padrão de projeto **Strategy**.
 
 ## 📘 Definição do padrão
 O padrão de projeto Strategy é um padrão comportamental que define um conjunto de algoritmos, os encapsula em classes separadas e permite que sejam intercambiáveis dentro de um determinado contexto.  
